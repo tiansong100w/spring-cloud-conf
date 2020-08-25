@@ -1,4 +1,4 @@
 #防爆刷，一分钟内，超过十次
 register:
   time: 1
-  count: 111
+  count: 1111
